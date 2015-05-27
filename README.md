@@ -8,3 +8,5 @@ Our meet ups are sponsored by and held at [Social Driver](www.socialdriver.com).
 Washington, DC 20005  
 
 Please use the doors on 15th Street. Someone will be in the lobby to take you upstairs. 
+
+We have a [slack](https://dclearnjs.slack.com/messages/) channel! Email dclearnjs@gmail.com to get an invite. 
