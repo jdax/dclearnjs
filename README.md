@@ -9,4 +9,4 @@ Washington, DC 20005
 
 Please use the doors on 15th Street. Someone will be in the lobby to take you upstairs. 
 
-We have a [slack](https://dclearnjs.slack.com/messages/) channel! Email dclearnjs@gmail.com to get an invite. 
+We have a [slack](https://dclearnjs.slack.com/messages/) channel! Go to [this app](http://dclearnjsinvites.herokuapp.com) to get an invite to it!
