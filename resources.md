@@ -1,3 +1,5 @@
+# Resources
+
 These are not necessarily tutorials, but a collection of resources to help you along the way!  
 
 + [DailyJS](http://dailyjs.com/) - Excellent blog with daily content.  
@@ -11,4 +13,11 @@ These are not necessarily tutorials, but a collection of resources to help you a
 + [Javascript Jabber Podcast](http://devchat.tv/js-jabber) - Weekly Podcast about Javascript, including Node.js, Front-End Technologies, Careers, Teams and more. 
 + [Stack Overflow](http://stackoverflow.com/questions/tagged/javascript) - Questions and answers on a wide range of topics in computer programming
 
-Please share if you have some other resources you think would be helpful! Fork the repo, add your suggestions (in markdown), and send a pull request! Please make sure to note any suggestions that are not free.
+## Please share
+if you have some other resources you think would be helpful!
+
+1. [Fork the repo](https://help.github.com/articles/fork-a-repo/),
+2. add your suggestions (in [markdown](https://help.github.com/articles/markdown-basics/)), and
+3. send a [pull request](https://help.github.com/articles/using-pull-requests/)!
+
+Please make sure to note any suggestions that are not free.
