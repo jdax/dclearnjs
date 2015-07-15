@@ -11,7 +11,10 @@ These are not necessarily tutorials, but a collection of resources to help you a
 + [**Web Developers Guide to JavaScript Frameworks**](http://community.rightpoint.com/blogs/viewpoint/archive/2015/01/01/a-web-developer-s-guide-to-javascript-frameworks.aspx)  
 + [**JS The Right Way**](http://jstherightway.org/) - A pretty comprehensive list of guides and tools.
 + [**Javascript Jabber Podcast**](http://devchat.tv/js-jabber) - Weekly Podcast about Javascript, including Node.js, Front-End Technologies, Careers, Teams and more. 
-+ [**Stack Overflow**](http://stackoverflow.com/questions/tagged/javascript) - Questions and answers on a wide range of topics in computer programming
++ [**Stack Overflow**](http://stackoverflow.com/questions/tagged/javascript) - Questions and answers on a wide range of topics in computer programming  
++ [**CodePen**](http://www.codepen.com) - Use Codepen to write and save your code and share it with others.  
++ [**JSFiddle**](http://www.jsfiddle.com) - Like Codepen, but with a less pretty interface.
++ [Cloud9](https://c9.io/) - A developement environment based in a web browser, has a text editor and terminal. Able to add people to projects for a small fee. 
 
 ## Please share
 if you have some other resources you think would be helpful!
